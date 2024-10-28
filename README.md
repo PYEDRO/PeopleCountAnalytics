@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # PeopleCountAnalytics
-=======
+
 # People Count Analytics
 
 ## Project Overview
